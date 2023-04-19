@@ -1,7 +1,6 @@
 # BPSK-Modulation-and-Demodulation
-
-##2 BPSK Modulation and Demodulation
-The aim of the experiment is to reconstruct a transmitted image, modulated by BPSK scheme, at
+BPSK Modulation and Demodulation
+The aim of the simulation is to reconstruct a transmitted image, modulated by BPSK scheme, at
 the receiver. The maximum likelihood decoder will be used at the receiver to recover the symbols. To
 model a channel for transmission AWGN noise will be added to transmitted signal before processing
 at the receiver. The bit error rate (BER) vs SNR(in dB) curve will be plotted for different values
